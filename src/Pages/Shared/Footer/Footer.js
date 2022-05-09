@@ -12,8 +12,8 @@ const Footer = () => {
                 </div>
                 <div className='mail-section'>
                     <h3>MAIL US</h3>
-                    <h6>support@gorommosala.com</h6>
-                    <h6>info@gorommosala.com</h6>
+                    <h6>support@goromosala.com</h6>
+                    <h6>info@goromosala.com</h6>
                 </div>
                 <div className='address-section'>
                     <h3>OUR LOCATION</h3>
