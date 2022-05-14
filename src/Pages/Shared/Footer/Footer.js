@@ -7,8 +7,8 @@ const Footer = () => {
             <div className='contacts-container'>
                 <div className='call-section'>
                     <h3>TALK TO US</h3>
-                    <h6>Toll Free: 99 6346 543</h6>
-                    <h6>Fax: 7776 4419 390</h6>
+                    <h6>Toll Free: 78 4365 948</h6>
+                    <h6>Fax: 888 6429 542</h6>
                 </div>
                 <div className='mail-section'>
                     <h3>MAIL US</h3>
