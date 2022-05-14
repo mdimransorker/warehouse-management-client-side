@@ -4,8 +4,8 @@ import './Blogs.css'
 const Blogs = () => {
     return (
         <div className='container my-5'>
-            <h2>Difference between javascript and nodejs</h2>
-            <p>Javascript is a programming language that is used to write website scripts.NodeJS is a runtime environment for Javascript.Javascript can only be executed in browsers.NodeJs is mostly used on the server-side.In frontend development, Javascript is used. Nodejs is used in server-side development.</p>
+            <h2>Difference between javascript and nodejs.</h2>
+            <p>Javascript is a programming language that is used to write website scripts.NodeJS is a runtime environment for Javascript.Javascript can only be executed in browsers.NodeJs is mostly used on the server-side.In frontend development, Javascript is used. Nodejs is used in server-side development. 	Javascript is capable enough to add HTML and play with the DOM. Nodejs does not have capability to add HTML tags. </p>
 
             <h2>When should you use nodejs and when should you use mongodb?</h2>
             <p>NodeJS and MongoDB are basically two technologies. MonogDB is a database system that allows you to effectively store documents in a database and conduct actions such as data changes or searching documents based on certain criteria.The responsibility of NodeJS is especially to run your application.</p>
