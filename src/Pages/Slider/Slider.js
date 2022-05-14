@@ -22,7 +22,7 @@ const Slider = () => {
                     />
                     <Carousel.Caption>
                         <h3>100% Original Products</h3>
-                        <p>10% Off On Spices</p>
+                        <p>15% Off On Spices</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -33,8 +33,8 @@ const Slider = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>All Organic Spices</h3>
-                        <p>30% Off On All Products</p>
+                        <h3>100% Organic Spices</h3>
+                        <p>20% Off On All Products</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -46,7 +46,7 @@ const Slider = () => {
 
                     <Carousel.Caption>
                         <h3>The Choice of Chefs</h3>
-                        <p>15% Off On Spices</p>
+                        <p>10% Off On Spices</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
