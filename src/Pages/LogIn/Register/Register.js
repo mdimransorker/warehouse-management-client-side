@@ -52,7 +52,7 @@ const Register = () => {
                     <Form.Control type="password" name='password' placeholder="Password" />
                 </Form.Group>
                 <input onClick={() => setAgree(!agree)} type="checkbox" name="terms" id="terms" />
-                <label htmlFor="terms" className='ps-2'>Accept Gorommosala Terms and Conditions.</label>
+                <label htmlFor="terms" className='ps-2'>Accept Gorom-mosala Terms and Conditions.</label>
                 <Button variant="primary" type="submit" className='create-btn' disabled={!agree}>
                     Create an account
                 </Button>
