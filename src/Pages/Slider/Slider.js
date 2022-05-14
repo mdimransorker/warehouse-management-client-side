@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Carousel } from 'react-bootstrap';
-import spicesBanner1 from '../../../src/images/spices-banner-1.'
+import spicesBanner1 from '../../../src/images/spices-banner-1.jpg'
 import spicesBanner2 from '../../../src/images/spices-banner-2.jpg'
 import spicesBanner3 from '../../../src/images/spices-banner-3.jpg'
 import './Slider.css'
